@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src="uploads/logo.svg">
+    <img alt="Logo" title="#logo" width="300px" src="src/assets/logo.svg">
 </h3>
 <p align="center">
   <a href="https://rocketseat.com.br">
